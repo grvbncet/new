@@ -1,0 +1,137 @@
+body{
+        margin: 0;
+    text-align: center;
+
+}
+
+.top-container {
+    background-color:#BFEAF5;
+    padding-top: 100px;
+    
+    
+}
+.middle-container{ 
+    
+    width: 50%;
+    margin: 50px auto 100px auto;
+ 
+        
+    }
+    .bottom-container{
+        width: 50%;
+        margin: 100px auto 100px auto;  
+    }
+
+.contact-me{
+    width: 50%;
+    margin: 100px auto 10px auto;
+    text-align: center;
+}
+
+.footer{
+    background-color: #2980b9;
+    padding-top: 20px;
+}
+
+.footer-text{
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #0f0f0f;
+}
+    .html{
+        width: 27%;
+        float: left;
+        margin-right: 30px;
+        
+        
+    }
+.css3{
+    width: 19%;
+    float: right;
+    margin-left: 30px;
+  
+    
+}
+hr{
+    border-style: dotted;
+    border-color: grey;
+    border-width: 6px;
+    border-bottom: none;
+    width: 4%;
+}
+.gaurav-shukla{
+    width: 20%;
+
+}
+.hello{
+    margin-bottom: 100px;
+}
+.title{
+    text-align: center;
+}
+h1 {
+    color: rgb(10, 165, 165);
+    font-size: 5em;
+   font-family: 'Sacramento', sans-serif;
+   margin-top: 0;
+}
+.myskills{
+    margin-bottom: 100px;
+    
+}
+h2{
+    color: rgb(10, 165, 165);
+    font-size: 2.5em;  
+    margin-bottom: 10px;
+    text-align: center;
+}
+h3{
+    
+    color: rgb(10, 165, 165);
+    font-size: 1.5em;
+    text-align: left;
+    margin-bottom: 0%;
+}
+p{
+    color: rgb(5, 90, 90);
+    font-family: 'Dancing Script', cursive; 
+    font-size: 1.5em;
+    line-height: 2;
+    text-align: left;
+}
+.contact-text{
+    text-align: center;
+}
+.mountain-bottom{
+    border-radius: 50%;
+    position: absolute;
+    left: 300px;
+    top: 200px;
+  
+}
+
+  .mountain-top{
+    border-radius: 50%;
+    position: absolute;
+    right: 300px;
+  }
+   
+  .btn {
+    background: #33dbcd;
+    background-image: -webkit-linear-gradient(top, #33dbcd, #2980b9);
+    background-image: -moz-linear-gradient(top, #33dbcd, #2980b9);
+    background-image: -ms-linear-gradient(top, #33dbcd, #2980b9);
+    background-image: -o-linear-gradient(top, #33dbcd, #2980b9);
+    background-image: linear-gradient(to bottom, #33dbcd, #2980b9);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Dancing Script', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+
